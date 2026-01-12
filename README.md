@@ -74,7 +74,7 @@ These metrics are used to evaluate the performance and reliability of the traine
 1️⃣ Install Dependencies
 # bash
 pip install -r requirements.txt
-
+---
 📌 Applications
 
 Communication aid for deaf and mute individuals
@@ -84,7 +84,7 @@ Educational tools for learning sign language
 Human–computer interaction systems
 
 Assistive technology solutions
-
+---
 🚀 Future Enhancements
 
 Support for full sentence recognition
@@ -94,14 +94,12 @@ Multi-language sign detection
 Mobile application integration
 
 Improved accuracy with larger datasets
-
+---
 🏁 Conclusion
 
 This project demonstrates the effective use of deep learning and computer vision techniques to recognize sign language gestures in real time. The system provides a reliable and scalable solution to enhance accessibility and inclusivity in communication.
+---
 
-📚 References
-
-TensorFlow Documentation
 
 MediaPipe Hands – Google
 
